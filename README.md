@@ -2,5 +2,5 @@
 
 - [git](https://github.com/sohyeonAn/TIL/tree/main/git)
 - [react-query](https://github.com/sohyeonAn/TIL/tree/main/react-query)
-- [architecture](https://github.com/sohyeonAn/TIL/tree/main/artitecture)
-  - [FSD](https://github.com/sohyeonAn/TIL/tree/main/artitecture/FSD.md)
+- [architecture](https://github.com/sohyeonAn/TIL/tree/main/architecture)
+  - [FSD](https://github.com/sohyeonAn/TIL/tree/main/architecture/FSD.md)
